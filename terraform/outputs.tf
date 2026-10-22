@@ -1,0 +1,1 @@
+# Outputs will be defined here as infrastructure resources are implemented.
