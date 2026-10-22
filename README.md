@@ -1,4 +1,4 @@
-@'
+
 # Terraform Atlantis DevOps Platform
 
 ## Overview
@@ -56,4 +56,3 @@ Features will be documented as they are implemented, tested, and verified.
 ## Author
 
 GitHub: [malkamanuranga](https://github.com/malkamanuranga)
-'@ | Set-Content README.md -Encoding utf8
